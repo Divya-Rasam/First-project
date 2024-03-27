@@ -1,2 +1,2 @@
-# My-first-project
+# First-project
 Crazy cats website 
